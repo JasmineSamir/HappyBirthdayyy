@@ -2,8 +2,8 @@
   "greeting": "Hellozza",
   "name": "Jasmine",
   "greetingText": "I really like your name btw!",
-  "wishText": "I wish you all the best and May all your wishes come true! Mi amiga favoritaaa :)",
-  "imagePath": "img/lydia2.png",
+  "wishText": "I wish you all the best and May all your wishes come true! :)",
+  "imagePath": "img/jasmine.png",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yayyy! Many many happy bla blah...",
   "sendButtonLabel": "Send",
@@ -17,7 +17,7 @@
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked itt.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "For the girl I trust the mosttt.",
+  "replayText": "Click to watch again Mi amiga favoritaaa",
   "outroSmiley": ":)"
 }
